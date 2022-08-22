@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Flutter app development.
 
 
-- 📫 You can reach me on via any. I will gave links below.
-whatsapp -> wa.me/+919567387758
+- 📫 You can reach me
+LinkedIn -> https://www.linkedin.com/in/aswanathck/
 
 
 
