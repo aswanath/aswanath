@@ -3,7 +3,7 @@
 - 🌱 I’m currently doing Flutter app development;
 
 
-- 📫 You can reach me on
+- 📫 You can reach out to me on
 LinkedIn -> https://www.linkedin.com/in/aswanathck/
 
 
