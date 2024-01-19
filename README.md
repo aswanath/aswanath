@@ -1,4 +1,6 @@
 ![](https://hit.yhype.me/github/profile?user_id=65846325)
+<img src="https://i.pinimg.com/originals/09/3f/18/093f1861fc92b3a0ba497ece177b27e6.gif" width="100%">
+
 <h1 align="center">Hi 👋, I'm Aswanath C K</h1>
 <h3 align="center">A passionate Mobile App Developer</h3>
 
