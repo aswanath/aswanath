@@ -1,8 +1,15 @@
 ![](https://hit.yhype.me/github/profile?user_id=65846325)
-<img src="https://i.pinimg.com/originals/09/3f/18/093f1861fc92b3a0ba497ece177b27e6.gif" width="100%">
+<p align="center">
+  <img src="https://i.pinimg.com/originals/09/3f/18/093f1861fc92b3a0ba497ece177b27e6.gif" height="550">
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Aswanath C K</h1>
 <h3 align="center">A passionate Mobile App Developer</h3>
+
+
+<img align="right" alt="Coding" width="400" src="https://www.fegno.com/wp-content/uploads/2022/03/mobile-app-development-company.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswanath&label=Profile%20views&color=0e75b6&style=flat" alt="aswanath" /> </p>
 
