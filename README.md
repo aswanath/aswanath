@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Money Assistant - Budget Tracker**
 
-- 🌱 I’m currently learning **Go Lang, Android**
+- 🌱 I’m currently learning **React Native, Nodejs and System Design**
 
 - 💬 Ask me about **Flutter**
 
